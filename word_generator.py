@@ -5,7 +5,7 @@ print("Word Generator")
 
 alphabet = string.ascii_lowercase
 
-word = ""
+word = "bruh"
 
 for i in range(random.randint(3, 8)):
     word += random.choice(alphabet)
