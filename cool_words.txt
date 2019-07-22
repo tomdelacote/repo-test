@@ -1,4 +1,4 @@
-This is a list of cool words.
+This is a list of cool words and names.
 
 pro
 cool
@@ -7,3 +7,7 @@ nice
 cold
 amazing
 interesting
+
+bob
+greg
+jake
